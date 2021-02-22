@@ -1,4 +1,6 @@
-Thanks for downloading this template!
+## Personal website
+
+My personal website was developed using the following template.
 
 Template Name: MyResume
 Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
